@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Eu sou o Willian, estudante de Engenharia de Software, e apaixonado por programação!!!
+# Eu sou o Willian, estudante Full Stack Web, e apaixonado por programação!!!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=willian-fg&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willian-fg&layout=compact)
 
